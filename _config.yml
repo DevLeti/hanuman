@@ -1,17 +1,17 @@
 # Site settings
 title: DevLETi's Page
 description: 안녕하세요!
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.ico
+cover: /assets/images/radhakrishna.jpg
+logo: /assets/images/logo.png
+favicon: /assets/images/favicon.ico
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://devleti.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: "profile.php?id=100002972160828"
+facebook: profile.php?id=100002972160828
 twitter: twitter
-github:  "devleti"
+github:  devleti
 
 #Additional Pages
 about: about
