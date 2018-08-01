@@ -9,9 +9,9 @@ url: "https://devleti.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: "https://www.facebook.com/profile.php?id=100002972160828"
+facebook: "profile.php?id=100002972160828"
 twitter: twitter
-github:  "https://github.com/devleti"
+github:  "devleti"
 
 #Additional Pages
 about: about
