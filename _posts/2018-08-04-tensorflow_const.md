@@ -45,7 +45,6 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 
 
 <h2>코드 / 程序代码</h2>
-<br />
 ```
 import tensorflow as tf
 
@@ -58,7 +57,7 @@ c = tf.constant(20)
 
 d = a+b+c
 
-sess = tf.Session() # Session의 첫 S는 대문자!! Session的 最初S是打字！！
+sess = tf.Session() # Session의 첫 S는 대문자!! Session的 最初S是大字！！
 result = sess.run(d)
 print(result)
 ```
@@ -69,12 +68,12 @@ print(result)
 tf.constant(value, dtype=None, shape=None, name='Const', verify_shape=False)
 ```
 
-value : 상수의 값 / 赋值(=一个数)
-dtype : datatype, tf.float32 같이 실수, 정수의 데이터 타입을 정의한다 / 定义常数的元素类型
-shape :
-행렬의 차원을 정의한다. shape = [3, 3] 으로 정의해주면, 이 상수는 3x3 행렬을 저장하게 된다.
-定义矩阵的次元，如果shape = [3, 3], 这常量是3x3矩阵。
-name : name은 이 상수의 이름을 정의한다.(이후 설명) / 定义常量的名字(以后说明)
+value : 상수의 값 / 赋值(=一个数) <br>
+dtype : datatype, tf.float32 같이 실수, 정수의 데이터 타입을 정의한다 / 定义常数的元素类型 <br>
+shape :<br>
+행렬의 차원을 정의한다. shape = [3, 3] 으로 정의해주면, 이 상수는 3x3 행렬을 저장하게 된다.<br>
+定义矩阵的次元，如果shape = [3, 3], 这常量是3x3矩阵。<br>
+name : name은 이 상수의 이름을 정의한다.(이후 설명) / 定义常量的名字(以后说明)<br>
 
 <h2>구동방법 / 启动方法 </h2>
 
@@ -83,7 +82,7 @@ sess = tf.Session() # Session의 첫 S는 대문자!! Session的 最初S是打�
 result = sess.run(d)
 ```
 
-구동을 하고 싶다면, 구동을 하는 공간인 session을 정의해야 한다. 구동은 session.run()을 하면 된다.
+구동을 하고 싶다면, 구동을 하는 공간인 session을 정의해야 한다. 구동은 session.run()을 하면 된다.<br>
 如果想启动，先要定义session（启动的空间）。启动函数是session.run()
 
 
