@@ -20,7 +20,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 
 저는 이 글을 작성하는 목적이 세가지가 있습니다. 첫번째로 마크다운 작성 문법에 익숙해지려는 것과, 텐서플로우의 기초를 이해하려고 하는 것, 그리고 중국어를 잊지 않는 것 입니다. 매 글은 참고된 사이트가 있으며, 만약 더욱 명확하고 정확한 설명이 필요하시다면 참고된 사이트를 들어가주세요. 중국어는 틀린 문장이 있을 수 있습니다. 만약 잘못된 문장이 있다면 부담없이 알려주시길 바랍니다.<br>
 
-(<br>쓰고 hr 썼는데 이건 html문법 아닌가?)
+( br 쓰고 hr 썼는데 이건 html문법 아닌가?)
 
 ## 进去tensorflow前！
 <hr />
@@ -80,7 +80,7 @@ name : name은 이 상수의 이름을 정의한다.(이후 설명) / 定义常�
 <h2>구동방법 / 启动方法 </h2>
 
 ```
-sess = tf.Session() # Session의 첫 S는 대문자!! Session的 最初S是大字！！
+sess = tf.Session() # Session의 첫 S는 대문자!! Session的 第一个S是大字！！
 result = sess.run(d)
 ```
 
