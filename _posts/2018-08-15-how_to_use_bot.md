@@ -52,6 +52,6 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
     <td>번역 대상 언어 코드</td>
   </tr>
   <tr>
-    <td> <ol><li>ko : 한국어</li> <li>en : 영어</li > </li> <li>zh-CN : 중국어 간체</li> <li>zh-TW : 중국어 번체</li> <li>es : 스페인어</li> <li>fr : 프랑스어</li> <li>vi : 베트남어</li> <li>th : 태국어</li> <li>id : 인도네시아어</li></ol> </td>
+    <td> <ol><li>ko : 한국어</li> <li>en : 영어</li > <li>zh-CN : 중국어 간체</li> <li>zh-TW : 중국어 번체</li> <li>es : 스페인어</li> <li>fr : 프랑스어</li> <li>vi : 베트남어</li> <li>th : 태국어</li> <li>id : 인도네시아어</li></ol> </td>
   </tr>
 </table>
