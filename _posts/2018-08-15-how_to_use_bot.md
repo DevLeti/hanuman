@@ -46,7 +46,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <h4>2. 번역 사용방법</h4>
 
 <p>채팅창에 '번역/요청 번역 언어 코드(ko/ja등)/번역 요청 문장' 의 형식으로 전송 하시면 됩니다! 이렇게요!<br/>
-<amp-img src="{{ site.baseurl }}assets/bot_ex/trans_ex.png" width="257" height="440" layout="responsive" alt="" class="mb3"></amp-img><br/>
+<amp-img src="{{ site.baseurl }}assets/bot_ex/trans_ex.png" width="128" height="220" layout="responsive" alt="" class="mb3"></amp-img><br/>
 '/' 양 옆에 공백이 있으면 <strong>안된다는 점</strong> 유의해주세요!</p>
 <table>
 </table>
