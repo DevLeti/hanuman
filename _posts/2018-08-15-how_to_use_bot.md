@@ -28,8 +28,6 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <ol>
 <li>지원 기능</li>
 <li>번역 사용방법</li>
-<li>번역 지원표</li>
-<li>구동방법(session, run)</li>
 </ol>
 
 
