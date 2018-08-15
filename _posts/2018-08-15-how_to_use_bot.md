@@ -44,9 +44,22 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <br/>
 
 <h4>2. 번역 사용방법</h4>
+<hr/>
 
 <p>채팅창에 '번역/요청 번역 언어 코드(ko/ja등)/번역 요청 문장' 의 형식으로 전송 하시면 됩니다! 이렇게요!<br/>
 <amp-img src="{{ site.baseurl }}assets/bot_ex/trans_ex.png" width="128" height="220" layout="responsive" alt="" class="mb3"></amp-img><br/>
 '/' 양 옆에 공백이 있으면 <strong>안된다는 점</strong> 유의해주세요!</p>
 <table>
+  <tr>
+    <td>번역 대상 언어 코드</td>
+    <td>1.ko : 한국어
+2.en : 영어
+3.zh-CN : 중국어 간체
+4.zh-TW : 중국어 번체
+5.es : 스페인어
+6.fr : 프랑스어
+7.vi : 베트남어
+8.th : 태국어
+9.id : 인도네시아어</td>
+  </tr>
 </table>
