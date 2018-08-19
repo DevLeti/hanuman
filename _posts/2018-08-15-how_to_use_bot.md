@@ -29,6 +29,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 
 <ol>
 <li>지원 기능</li>
+<li>메아리 사용방법</li>
 <li>번역 사용방법</li>
 </ol>
 
@@ -38,12 +39,20 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <h3>1. 지원 기능</h3>
 <hr />
 
-<p>2018-08-15기준 유명현 봇은 메아리와 번역 기능을 지원하고 있습니다!</p>
+<p>2018-08-19기준 유명현 봇은 메아리와 번역 기능을 지원하고 있습니다!</p>
+
+<br />
+
+
+<h3>2. 메아리 사용방법</h3>
+<hr />
+
+<p>메아리 사용법은 간단합니다! 채팅창에 '메아리/(메아리 시킬 문장)' 형식으로 전송하시면 됩니다.</p>
 
 
 <br/>
 
-<h3>2. 번역 사용방법</h3>
+<h3>3. 번역 사용방법</h3>
 <hr/>
 
 <p>채팅창에 '번역/요청 번역 언어 코드(ko/ja등)/번역 요청 문장' 의 형식으로 전송 하시면 됩니다! 이렇게요!<br/>
