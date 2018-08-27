@@ -75,7 +75,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 
 
 <p>먼저 채팅창에 '얼굴분석'이라고 전송하면 '사진을 보내주세요!'라는 답장이 옵니다. 그때 얼굴이 있는 사진을 보내주세요!</p>
-<amp-img src="{{ site.baseurl }}assets/bot_ex/gamsung_ex.png" layout="responsive" alt="" class="mb3"></amp-img><br/>
+<amp-img src="{{ site.baseurl }}assets/bot_ex/gamsung_ex.png" width="191" height="516" layout="responsive" alt="" class="mb3"></amp-img><br/>
 
 
 <h3>유명현 봇 사용법은 기능이 추가될때마다 갱신됩니다! 기대해주세요 :D</h3>
