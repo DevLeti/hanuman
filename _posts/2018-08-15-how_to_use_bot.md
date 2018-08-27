@@ -31,6 +31,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <li>지원 기능</li>
 <li>메아리 사용방법</li>
 <li>번역 사용방법</li>
+<li>얼굴감정분석 사용방법</li>
 </ol>
 
 
@@ -39,7 +40,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <h3>1. 지원 기능</h3>
 <hr />
 
-<p>2018-08-19기준 유명현 봇은 메아리와 번역 기능을 지원하고 있습니다!</p>
+<p>2018-08-27기준 유명현 봇은 메아리, 번역, 얼굴감정분석 기능을 지원하고 있습니다!</p>
 
 <br />
 
@@ -68,5 +69,13 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
     <td><ol> <li>ko<->en</li> <li>ko<->zh-CN</li> <li>ko<->zh-TW</li> <li>ko<->es</li> <li>ko<->fr</li> <li>ko<->vi</li> <li>ko<->th</li> <li>ko<->id</li> <li>en<->ja</li> <li>en<->fr</li> </ol></td>
   </tr>
 </table>
+
+<h3>4. 얼굴감정분석 사용방법</h3>
+<hr/>
+
+
+<p>먼저 채팅창에 '얼굴분석'이라고 전송하면 '사진을 보내주세요!'라는 답장이 옵니다. 그때 얼굴이 있는 사진을 보내주세요!</p>
+<amp-img src="{{ site.baseurl }}assets/bot_ex/gamsung_ex.png" layout="responsive" alt="" class="mb3"></amp-img><br/>
+
 
 <h3>유명현 봇 사용법은 기능이 추가될때마다 갱신됩니다! 기대해주세요 :D</h3>
