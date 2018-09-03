@@ -32,6 +32,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <li>메아리 사용방법</li>
 <li>번역 사용방법</li>
 <li>얼굴감정분석 사용방법</li>
+<li>QR코드인식 사용방법</li>
 </ol>
 
 
@@ -40,7 +41,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <h3>1. 지원 기능</h3>
 <hr />
 
-<p>2018-08-27기준 유명현 봇은 메아리, 번역, 얼굴감정분석 기능을 지원하고 있습니다!</p>
+<p>2018-09-03기준 유명현 봇은 메아리, 번역, 얼굴감정분석, QR코드해석 기능을 지원하고 있습니다!</p>
 
 <br />
 
@@ -77,5 +78,11 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <p>먼저 채팅창에 '얼굴분석'이라고 전송하면 '사진을 보내주세요!'라는 답장이 옵니다. 그때 얼굴이 있는 사진을 보내주세요!</p>
 <amp-img src="{{ site.baseurl }}assets/bot_ex/gamsung_ex.png" width="191" height="516" layout="responsive" alt="" class="mb3"></amp-img><br/>
 
+<h3>5. QR코드인식 사용방법></h3>
+<hr/>
+
+
+<p>먼저 채팅방에 'QR코드'또는 'qr코드'라고 전송하면 'QR코드 이미지를 보내주세요!'라는 답장이 옵니다. 그때 얼굴이 있는 사진을 보내주세요!</p>
+<amp-img src="{{ site.baseurl }}assets/bot_ex/qrcode_ex.png" width="262" height="413" layout="responsive" alt="" class="mb3"></amp-img><br/>
 
 <h3>유명현 봇 사용법은 기능이 추가될때마다 갱신됩니다! 기대해주세요 :D</h3>
