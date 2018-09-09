@@ -85,7 +85,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 <hr/>
 
 
-<p>채팅방에 'QR코드'또는 'qr코드'라고 전송하면 'QR코드 이미지를 보내주세요!'라는 답장이 옵니다. 그 후 QR코드를 보내주세요</p>
+<p>채팅방에 'QR코드'또는 'qr코드'라고 전송하면 'QR코드 이미지를 보내주세요!'라는 답장이 옵니다. 그 후 QR코드를 보내주세요!</p>
 <strong>배경이 투명인 QR코드는 인식이 되지 않습니다. 주의해주세요!</strong>
 <amp-img src="{{ site.baseurl }}assets/bot_ex/qrcode_ex.png" width="262" height="413" layout="responsive" alt="" class="mb3"></amp-img><br/>
 
