@@ -78,7 +78,7 @@ A genius is just a talented person who does his homework. - Thomas A. Edison
 
 <p>채팅창에 '얼굴분석'이라고 전송하면 '사진을 보내주세요!'라는 답장이 옵니다. 그 후 얼굴이 있는 사진을 보내주세요!</p>
 <amp-img src="{{ site.baseurl }}assets/bot_ex/gamsung_ex.png" width="191" height="516" layout="responsive" alt="" class="mb3"></amp-img><br/>
-네 저는 사실 여자였던것 입니다..<del>출생의 비밀?</del>
+<del>네 저는 사실 여자였던것 입니다..</del>
 <br />
 
 <h3>5. QR코드인식 사용방법</h3>
